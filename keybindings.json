@@ -1,0 +1,12 @@
+// Place your key bindings in this file to override the defaults
+[
+    // Terminal control
+    { "key": "cmd+right", "command": "workbench.action.terminal.focusNext" },
+    { "key": "cmd+left",  "command": "workbench.action.terminal.focusPrevious" },
+    { "key": "cmd+up",    "command": "workbench.action.toggleMaximizedPanel" },
+    { "key": "cmd+down",  "command": "workbench.action.terminal.toggleTerminal" },
+    { "key": "cmd+d",  "command": "workbench.view.extension.dockerView" },
+    { "key": "cmd+e",           "command": "workbench.view.explorer" },
+    { "key": "shift+cmd+a",           "command": "workbench.action.toggleActivityBarVisibility" },
+    { "key": "cmd+r",           "command": "workbench.action.tasks.runTask", "args": "python3"},
+]

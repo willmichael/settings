@@ -1,0 +1,12 @@
+# Vim files
+*.swp
+
+# Vscode files
+.vscode*
+
+
+delve/*
+
+*.DS_STORE
+venv/
+.env

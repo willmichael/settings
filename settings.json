@@ -1,0 +1,36 @@
+{
+    "git.enableCommitSigning": true,
+    "go.formatTool": "gofmt",
+    "go.gopath":"/Users/willmichael/go",
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": false,
+    "workbench.editor.enablePreview": false,
+    "files.exclude": {
+        "**/*.pyc": true
+    },
+    "autoDocstring.newlineBeforeSummary": true,
+    "autoDocstring.guessTypes": false,
+    "autoDocstring.docstringFormat": "numpy",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "Menlo for Powerline",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "python.pythonPath": "/usr/local/bin/python3",
+    "workbench.activityBar.visible": false,
+
+    "vim.leader": "<space>",
+    "vim.visualModeKeyBindingsNonRecursive": [
+        {
+            "before": [
+                "p",
+            ],
+            "after": [
+                "p",
+                "g",
+                "v",
+                "y"
+            ]
+        },
+    ],
+    "vim.changeWordIncludesWhitespace": true
+
+}

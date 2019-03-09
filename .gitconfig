@@ -1,0 +1,9 @@
+[core]
+	excludesfile = /Users/willmichael/.gitignore_global
+
+[alias]
+    co = checkout
+    c = commit
+    a = add
+    b = branch
+    s = status
